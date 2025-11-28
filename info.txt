@@ -1,0 +1,27 @@
+Django
+
+=============================================
+Part 1 
+
+To Setup Django and runserver
+See the list of Available subcommands:
+# django-admin
+
+To StartProject create project folder:
+# django-admin startproject (folder name)
+
+
+To Run server:
+# python manage.py runserver
+
+========================================================
+Part 2
+
+
+
+
+
+========================================================
+NOTE ::
+
+:: If using env then need to install agin
